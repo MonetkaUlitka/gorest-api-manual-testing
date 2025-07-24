@@ -1,1 +1,3 @@
-# gorest-api-manual-testing
+# API manual testing Portfolio 
+Что-то отдалённо напоминающее тест-план можно посмотреть здесь: 
+**[Посмотреть тест-план](TEST_PLAN.md)**
